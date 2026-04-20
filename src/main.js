@@ -71,6 +71,15 @@ const EMPLOYMENT_LABELS = {
   'Current': '无排期'
 };
 
+function escapeHtml(text) {
+  return text
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;');
+}
+
 function translateCell(text, category) {
   const labels = category === 'family' ? FAMILY_LABELS : EMPLOYMENT_LABELS;
   
@@ -156,22 +165,40 @@ function renderData(data) {
   }
   
   let html = `
-    <div class="current-date">${year}-${document.getElementById('monthSelect').value}</div>
+    <section class="results-head">
+      <div class="current-date">${year}-${document.getElementById('monthSelect').value.padStart(2, '0')}</div>
+      <div class="results-summary">
+        <h2>${sectionTitle}</h2>
+        <p>数据按美国国务院当月发布内容抓取并整理显示</p>
+      </div>
+    </section>
     <div class="tables-container">
   `;
   
   tables.forEach((table, index) => {
+    const headers = table[0] || [];
+    const rows = table.slice(1);
+
     html += `
       <div class="table-section">
-        <h2>${sectionTitle}${tables.length > 1 ? ` - ${index + 1}` : ''}</h2>
+        <div class="section-heading">
+          <h3>${sectionTitle}${tables.length > 1 ? ` - ${index + 1}` : ''}</h3>
+          <span>${Math.max(rows.length, 0)} 条记录</span>
+        </div>
         <div class="table-wrapper">
-          <table>
+          <table class="bulletin-table">
+            <thead>
+              <tr>
+                ${headers.map(cell => `<th>${escapeHtml(translateCell(cell.trim(), category))}</th>`).join('')}
+              </tr>
+            </thead>
             <tbody>
-              ${table.map(row => `
+              ${rows.map(row => `
                 <tr>
-                  ${row.map(cell => {
+                  ${row.map((cell, cellIndex) => {
                     const translated = translateCell(cell.trim(), category);
-                    return `<td>${translated}</td>`;
+                    const label = headers[cellIndex] ? escapeHtml(translateCell(headers[cellIndex].trim(), category)) : `列 ${cellIndex + 1}`;
+                    return `<td data-label="${label}">${escapeHtml(translated)}</td>`;
                   }).join('')}
                 </tr>
               `).join('')}

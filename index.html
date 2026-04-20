@@ -5,6 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>美国移民排期查询 - Visa Bulletin</title>
   <style>
+    :root {
+      --bg-top: #f6efe3;
+      --bg-bottom: #eef3f8;
+      --panel: rgba(255, 255, 255, 0.78);
+      --panel-strong: rgba(255, 255, 255, 0.92);
+      --line: rgba(40, 66, 92, 0.12);
+      --text: #17324a;
+      --muted: #64748b;
+      --accent: #0f766e;
+      --accent-soft: rgba(15, 118, 110, 0.12);
+      --accent-2: #c2410c;
+      --shadow: 0 18px 50px rgba(23, 50, 74, 0.12);
+    }
+
     * {
       margin: 0;
       padding: 0;
@@ -12,44 +26,70 @@
     }
     
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      font-family: 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(15, 118, 110, 0.12), transparent 28%),
+        radial-gradient(circle at top right, rgba(194, 65, 12, 0.12), transparent 24%),
+        linear-gradient(180deg, var(--bg-top) 0%, var(--bg-bottom) 100%);
       min-height: 100vh;
-      color: #fff;
+      color: var(--text);
     }
     
     .container {
-      max-width: 1400px;
+      max-width: 1240px;
       margin: 0 auto;
-      padding: 20px;
+      padding: 32px 20px 56px;
     }
     
     header {
       text-align: center;
-      padding: 40px 0;
+      padding: 36px 24px 28px;
+      background: var(--panel);
+      border: 1px solid rgba(255, 255, 255, 0.5);
+      border-radius: 28px;
+      backdrop-filter: blur(14px);
+      box-shadow: var(--shadow);
     }
     
     header h1 {
-      font-size: 2.5rem;
-      font-weight: 700;
-      background: linear-gradient(90deg, #00d4ff, #7b2cbf);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      margin-bottom: 10px;
+      font-size: clamp(2rem, 4vw, 3.4rem);
+      font-weight: 800;
+      letter-spacing: -0.04em;
+      color: var(--text);
+      margin-bottom: 12px;
     }
     
     header p {
-      color: #8892b0;
-      font-size: 1.1rem;
+      color: var(--muted);
+      font-size: 1.02rem;
+      max-width: 720px;
+      margin: 0 auto;
+      line-height: 1.7;
+    }
+
+    .hero-kicker {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 14px;
+      margin-bottom: 18px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-size: 0.92rem;
+      font-weight: 700;
     }
     
     .controls {
-      display: flex;
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
       gap: 20px;
-      justify-content: center;
-      margin-bottom: 30px;
-      flex-wrap: wrap;
+      margin: 26px 0 22px;
+      padding: 24px;
+      background: var(--panel-strong);
+      border: 1px solid rgba(255, 255, 255, 0.6);
+      border-radius: 24px;
+      box-shadow: var(--shadow);
     }
     
     .control-group {
@@ -59,37 +99,43 @@
     }
     
     .control-group label {
-      font-size: 0.9rem;
-      color: #8892b0;
+      font-size: 0.92rem;
+      color: var(--muted);
+      font-weight: 600;
     }
     
     select {
-      padding: 12px 20px;
+      padding: 14px 16px;
       font-size: 1rem;
-      border: 2px solid #3d5a80;
-      border-radius: 8px;
-      background: #0f3460;
-      color: #fff;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: #fff;
+      color: var(--text);
       cursor: pointer;
-      min-width: 200px;
+      min-width: 0;
       transition: all 0.3s ease;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.8);
     }
     
     select:hover {
-      border-color: #00d4ff;
+      border-color: rgba(15, 118, 110, 0.35);
     }
     
     select:focus {
       outline: none;
-      border-color: #00d4ff;
-      box-shadow: 0 0 15px rgba(0, 212, 255, 0.3);
+      border-color: var(--accent);
+      box-shadow: 0 0 0 4px rgba(15, 118, 110, 0.12);
     }
     
     .loading {
       text-align: center;
-      padding: 60px;
+      padding: 72px 24px;
       font-size: 1.2rem;
-      color: #8892b0;
+      color: var(--muted);
+      background: var(--panel);
+      border-radius: 24px;
+      border: 1px solid rgba(255, 255, 255, 0.55);
+      box-shadow: var(--shadow);
     }
     
     .loading::after {
@@ -97,7 +143,7 @@
       display: inline-block;
       width: 20px;
       height: 20px;
-      border: 3px solid #00d4ff;
+      border: 3px solid var(--accent);
       border-top-color: transparent;
       border-radius: 50%;
       animation: spin 1s linear infinite;
@@ -110,131 +156,254 @@
     }
     
     .error {
-      background: rgba(255, 82, 82, 0.1);
-      border: 1px solid #ff5252;
-      border-radius: 12px;
-      padding: 20px;
+      background: rgba(220, 38, 38, 0.08);
+      border: 1px solid rgba(220, 38, 38, 0.2);
+      border-radius: 20px;
+      padding: 24px;
       text-align: center;
-      color: #ff5252;
+      color: #b91c1c;
       margin-bottom: 30px;
+      box-shadow: var(--shadow);
     }
     
     .data-source {
       text-align: center;
-      margin-bottom: 20px;
-      color: #8892b0;
+      margin-bottom: 22px;
+      color: var(--muted);
       font-size: 0.9rem;
     }
     
     .data-source a {
-      color: #00d4ff;
+      color: var(--accent);
       text-decoration: none;
+      font-weight: 700;
     }
     
     .data-source a:hover {
       text-decoration: underline;
     }
+
+    .results-head {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 18px;
+      margin-bottom: 18px;
+      padding: 0 4px;
+    }
+
+    .results-summary h2 {
+      font-size: 1.4rem;
+      margin-bottom: 6px;
+      color: var(--text);
+    }
+
+    .results-summary p {
+      color: var(--muted);
+      line-height: 1.6;
+    }
     
     .tables-container {
       display: grid;
-      gap: 30px;
+      gap: 22px;
     }
     
     .table-section {
-      background: rgba(255, 255, 255, 0.05);
-      border-radius: 16px;
-      padding: 25px;
-      backdrop-filter: blur(10px);
+      background: var(--panel);
+      border-radius: 24px;
+      padding: 24px;
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.6);
+      box-shadow: var(--shadow);
     }
     
-    .table-section h2 {
-      color: #00d4ff;
-      margin-bottom: 20px;
-      font-size: 1.4rem;
-      border-bottom: 2px solid #3d5a80;
-      padding-bottom: 10px;
+    .section-heading {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 18px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .section-heading h3 {
+      font-size: 1.1rem;
+      color: var(--text);
+    }
+
+    .section-heading span {
+      font-size: 0.85rem;
+      color: var(--accent-2);
+      background: rgba(194, 65, 12, 0.1);
+      padding: 6px 10px;
+      border-radius: 999px;
+      white-space: nowrap;
     }
     
     .table-wrapper {
       overflow-x: auto;
+      border-radius: 18px;
+      border: 1px solid rgba(15, 23, 42, 0.06);
+      background: rgba(255, 255, 255, 0.72);
     }
     
-    table {
+    .bulletin-table {
       width: 100%;
-      border-collapse: collapse;
-      min-width: 800px;
+      border-collapse: separate;
+      border-spacing: 0;
+      min-width: 720px;
     }
     
     th, td {
-      padding: 14px 16px;
+      padding: 14px 14px;
       text-align: left;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      border-bottom: 1px solid rgba(15, 23, 42, 0.06);
+      vertical-align: top;
     }
     
     th {
-      background: #0f3460;
-      color: #00d4ff;
+      position: sticky;
+      top: 0;
+      background: #f7fafc;
+      color: var(--text);
       font-weight: 600;
-      white-space: nowrap;
+      white-space: normal;
+      line-height: 1.5;
+      z-index: 1;
     }
     
     th:first-child {
-      border-radius: 8px 0 0 0;
+      border-radius: 16px 0 0 0;
     }
     
     th:last-child {
-      border-radius: 0 8px 0 0;
+      border-radius: 0 16px 0 0;
     }
     
     tr:hover {
-      background: rgba(0, 212, 255, 0.05);
+      background: rgba(15, 118, 110, 0.04);
     }
     
     td {
-      color: #e0e0e0;
+      color: var(--text);
+      line-height: 1.55;
+      word-break: break-word;
     }
     
     .current-date {
-      background: rgba(0, 212, 255, 0.1);
-      color: #00d4ff;
-      padding: 8px 16px;
-      border-radius: 20px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      padding: 10px 14px;
+      border-radius: 999px;
       display: inline-block;
-      margin-bottom: 15px;
-      font-weight: 500;
+      font-weight: 700;
+      white-space: nowrap;
     }
     
     .no-data {
       text-align: center;
-      padding: 40px;
-      color: #8892b0;
+      padding: 52px 24px;
+      color: var(--muted);
+      background: var(--panel);
+      border: 1px solid rgba(255, 255, 255, 0.55);
+      border-radius: 24px;
+      box-shadow: var(--shadow);
     }
     
     footer {
       text-align: center;
-      padding: 40px 0;
-      color: #8892b0;
+      padding: 36px 0 0;
+      color: var(--muted);
       font-size: 0.9rem;
     }
     
     footer a {
-      color: #00d4ff;
+      color: var(--accent);
       text-decoration: none;
     }
     
     @media (max-width: 768px) {
+      .container {
+        padding: 20px 14px 40px;
+      }
+
+      header {
+        padding: 26px 18px 22px;
+        border-radius: 22px;
+      }
+
       header h1 {
         font-size: 1.8rem;
       }
-      
+
       .controls {
+        grid-template-columns: 1fr;
+        padding: 18px;
+        gap: 16px;
+      }
+      
+      .results-head {
         flex-direction: column;
-        align-items: center;
+        align-items: flex-start;
       }
       
       select {
         width: 100%;
-        max-width: 300px;
+      }
+
+      .table-section {
+        padding: 18px;
+      }
+
+      .section-heading {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .table-wrapper {
+        overflow: visible;
+        border: none;
+        background: transparent;
+      }
+
+      .bulletin-table {
+        min-width: 0;
+      }
+
+      .bulletin-table thead {
+        display: none;
+      }
+
+      .bulletin-table tbody {
+        display: grid;
+        gap: 14px;
+      }
+
+      .bulletin-table tr {
+        display: block;
+        padding: 14px;
+        border-radius: 18px;
+        background: rgba(255, 255, 255, 0.88);
+        border: 1px solid rgba(15, 23, 42, 0.06);
+      }
+
+      .bulletin-table td {
+        display: grid;
+        grid-template-columns: minmax(88px, 108px) 1fr;
+        gap: 12px;
+        padding: 10px 0;
+      }
+
+      .bulletin-table td::before {
+        content: attr(data-label);
+        color: var(--muted);
+        font-size: 0.82rem;
+        font-weight: 700;
+      }
+
+      .bulletin-table td:last-child {
+        border-bottom: none;
       }
     }
   </style>
@@ -242,8 +411,9 @@
 <body>
   <div class="container">
     <header>
+      <div class="hero-kicker">Visa Bulletin Tracker</div>
       <h1>美国移民排期查询</h1>
-      <p>U.S. Visa Bulletin - Immigration Visa Processing</p>
+      <p>按月份查看亲属移民和职业移民排期，页面会直接调用接口抓取美国国务院最新公告内容。</p>
     </header>
     
     <div class="controls">
