@@ -150,6 +150,7 @@ function renderData(data) {
   const category = document.getElementById('categorySelect').value;
   const year = document.getElementById('yearSelect').value;
   const monthObj = MONTHS.find(m => m.value === document.getElementById('monthSelect').value);
+  const selectedMonth = document.getElementById('monthSelect').value.padStart(2, '0');
   
   const tables = category === 'family' ? data.familyTables : data.employmentTables;
   const sectionTitle = category === 'family' ? '亲属移民 (Family-Sponsored)' : '职业移民 (Employment-Based)';
@@ -166,10 +167,17 @@ function renderData(data) {
   
   let html = `
     <section class="results-head">
-      <div class="current-date">${year}-${document.getElementById('monthSelect').value.padStart(2, '0')}</div>
+      <div class="results-meta">
+        <div class="current-date">${year}-${selectedMonth}</div>
+        <div class="meta-note">当前展示月份</div>
+      </div>
       <div class="results-summary">
         <h2>${sectionTitle}</h2>
-        <p>数据按美国国务院当月发布内容抓取并整理显示</p>
+        <p>数据按美国国务院当月发布内容抓取并整理显示，线上接口会自动更新。</p>
+      </div>
+      <div class="results-status">
+        <span class="status-pill">自动抓取</span>
+        <span class="status-pill">缓存 24 小时</span>
       </div>
     </section>
     <div class="tables-container">
