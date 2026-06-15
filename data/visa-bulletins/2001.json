@@ -1,0 +1,145 @@
+{
+  "year": 2001,
+  "updatedAt": "2026-06-15T06:03:14.958Z",
+  "bulletins": {
+    "12": {
+      "year": 2001,
+      "month": 12,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2002/visa-bulletin-for-december-2001.html",
+      "fetchedAt": "2026-06-15T03:09:19.033Z",
+      "familyTables": [
+        [
+          [
+            "",
+            "All Chargeability Areas Except Those Listed",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "Family",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1st",
+            "1999/03/01",
+            "1999/03/01",
+            "1994/04/22",
+            "1988/07/08"
+          ],
+          [
+            "2A*",
+            "1996/09/22",
+            "1996/09/22",
+            "1994/10/22",
+            "1996/09/22"
+          ],
+          [
+            "2B",
+            "1993/06/22",
+            "1993/06/22",
+            "1991/10/22",
+            "1993/06/22"
+          ],
+          [
+            "3rd",
+            "1996/05/08",
+            "1996/05/08",
+            "1992/07/01",
+            "1988/02/01"
+          ],
+          [
+            "4th",
+            "1989/11/08",
+            "1988/09/22",
+            "1989/11/08",
+            "1979/11/01"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "",
+            "All Chargeability Areas Except Those Listed",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "Employment- Based",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Other Workers",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "Priority Dates for Family Based Immigrant Visas"
+      ],
+      "employmentTableTitles": [
+        "Priority Dates for Employment-Based Immigrant Visas"
+      ]
+    }
+  }
+}

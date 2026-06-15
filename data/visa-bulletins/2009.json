@@ -1,0 +1,2681 @@
+{
+  "year": 2009,
+  "updatedAt": "2026-06-15T06:29:57.318Z",
+  "bulletins": {
+    "10": {
+      "year": 2009,
+      "month": 10,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2010/visa-bulletin-october-2009.html",
+      "fetchedAt": "2026-06-15T03:14:45.080Z",
+      "familyTables": [
+        [
+          [
+            "Family- Sponsored",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2003/07/22",
+            "2003/07/22",
+            "2003/07/22",
+            "1992/06/08",
+            "1993/10/08"
+          ],
+          [
+            "2A",
+            "2005/06/01",
+            "2005/06/01",
+            "2005/06/01",
+            "2003/03/01",
+            "2005/06/01"
+          ],
+          [
+            "2B",
+            "2001/08/22",
+            "2001/08/22",
+            "2001/08/22",
+            "1992/05/22",
+            "1998/05/01"
+          ],
+          [
+            "3rd",
+            "2001/01/15",
+            "2001/01/15",
+            "2001/01/15",
+            "1991/07/08",
+            "1991/10/15"
+          ],
+          [
+            "4th",
+            "1999/04/15",
+            "1999/04/15",
+            "1999/04/15",
+            "1995/10/08",
+            "1986/12/01"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2005/03/22",
+            "2005/01/22",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "2002/06/01",
+            "2002/02/22",
+            "2001/04/15",
+            "2002/05/01",
+            "2002/06/01"
+          ],
+          [
+            "Other Workers",
+            "2001/06/01",
+            "2001/06/01",
+            "2001/04/15",
+            "2001/06/01",
+            "2001/06/01"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th Pilot Programs",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "8,300",
+            "Except: Egypt: 3,100 Ethiopia: 3,900 Nigeria: 5,500"
+          ],
+          [
+            "ASIA",
+            "7,000",
+            ""
+          ],
+          [
+            "EUROPE",
+            "9,100",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "2",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "375",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "450",
+            ""
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "14,000",
+            "Except: Egypt: 6,200 Ethiopia: 6,700 Nigeria: 8,700"
+          ],
+          [
+            "ASIA",
+            "7,200",
+            ""
+          ],
+          [
+            "EUROPE",
+            "9,500",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "2",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "475",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "575",
+            ""
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期",
+        "职业移民签证申请递件日期",
+        ""
+      ]
+    },
+    "11": {
+      "year": 2009,
+      "month": 11,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2010/visa-bulletin-november-2009.html",
+      "fetchedAt": "2026-06-15T03:14:44.545Z",
+      "familyTables": [
+        [
+          [
+            "Family- Sponsored",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2003/10/15",
+            "2003/10/15",
+            "2003/10/15",
+            "1992/07/08",
+            "1993/10/22"
+          ],
+          [
+            "2A",
+            "2005/08/15",
+            "2005/08/15",
+            "2005/08/15",
+            "2003/06/15",
+            "2005/08/15"
+          ],
+          [
+            "2B",
+            "2001/10/01",
+            "2001/10/01",
+            "2001/10/01",
+            "1992/06/01",
+            "1998/05/15"
+          ],
+          [
+            "3rd",
+            "2001/03/01",
+            "2001/03/01",
+            "2001/03/01",
+            "1992/05/01",
+            "1991/10/22"
+          ],
+          [
+            "4th",
+            "1999/06/15",
+            "1999/06/15",
+            "1999/06/15",
+            "1995/11/08",
+            "1987/01/15"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2005/04/01",
+            "2005/01/22",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "2002/06/01",
+            "2002/06/01",
+            "2001/04/22",
+            "2002/06/01",
+            "2002/06/01"
+          ],
+          [
+            "Other Workers",
+            "2001/06/01",
+            "2001/06/01",
+            "2001/04/22",
+            "2001/06/01",
+            "2001/06/01"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th Pilot Programs",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "14,000",
+            "Except: Egypt: 6,200 Ethiopia: 6,700 Nigeria: 8,700"
+          ],
+          [
+            "ASIA",
+            "7,200",
+            ""
+          ],
+          [
+            "EUROPE",
+            "9,500",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "2",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "475",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "575",
+            ""
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "17,800",
+            "Except: Egypt: 9,100 Ethiopia: 9,000 Nigeria: 10,400"
+          ],
+          [
+            "ASIA",
+            "8,250",
+            ""
+          ],
+          [
+            "EUROPE",
+            "12,400",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "3",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "675",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "725",
+            ""
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期",
+        "职业移民签证申请递件日期",
+        ""
+      ]
+    },
+    "12": {
+      "year": 2009,
+      "month": 12,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2010/visa-bulletin-for-december-2009.html",
+      "fetchedAt": "2026-06-15T03:04:13.949Z",
+      "familyTables": [
+        [
+          [
+            "Family- Sponsored",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2004/01/22",
+            "2004/01/22",
+            "2004/01/22",
+            "1992/08/01",
+            "1993/11/01"
+          ],
+          [
+            "2A",
+            "2005/11/01",
+            "2005/11/01",
+            "2005/11/01",
+            "2003/10/01",
+            "2005/11/01"
+          ],
+          [
+            "2B",
+            "2001/11/01",
+            "2001/11/01",
+            "2001/11/01",
+            "1992/06/01",
+            "1998/07/01"
+          ],
+          [
+            "3rd",
+            "2001/05/22",
+            "2001/05/22",
+            "2001/05/22",
+            "1992/08/22",
+            "1991/11/15"
+          ],
+          [
+            "4th",
+            "1999/09/08",
+            "1999/09/08",
+            "1999/09/08",
+            "1995/11/15",
+            "1987/03/22"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2005/04/01",
+            "2005/01/22",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "2002/06/01",
+            "2002/06/01",
+            "2001/05/01",
+            "2002/06/01",
+            "2002/06/01"
+          ],
+          [
+            "Other Workers",
+            "2001/06/01",
+            "2001/06/01",
+            "2001/05/01",
+            "2001/06/01",
+            "2001/06/01"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th Pilot Programs",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "17,800",
+            "Except: Egypt: 9,100 Ethiopia: 9,000 Nigeria: 10,400"
+          ],
+          [
+            "ASIA",
+            "8,250",
+            ""
+          ],
+          [
+            "EUROPE",
+            "12,400",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "3",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "675",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "725",
+            ""
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "23,400",
+            "Except: Egypt: 12,300 Ethiopia: 12,475 Nigeria: 12,900"
+          ],
+          [
+            "ASIA",
+            "9,475",
+            ""
+          ],
+          [
+            "EUROPE",
+            "19,750",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "4",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "775",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "925",
+            ""
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期",
+        "职业移民签证申请递件日期",
+        ""
+      ]
+    },
+    "01": {
+      "year": 2009,
+      "month": 1,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2009/visa-bulletin-for-january-2009.html",
+      "fetchedAt": "2026-06-15T03:05:04.595Z",
+      "familyTables": [
+        [
+          [
+            "Family- Sponsored",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2002/06/15",
+            "2002/06/15",
+            "2002/06/15",
+            "1992/10/01",
+            "1993/07/15"
+          ],
+          [
+            "2A",
+            "2004/05/15",
+            "2004/05/15",
+            "2004/05/15",
+            "2001/08/15",
+            "2004/05/15"
+          ],
+          [
+            "2B",
+            "2000/03/22",
+            "2000/03/22",
+            "2000/03/22",
+            "1992/05/01",
+            "1997/09/01"
+          ],
+          [
+            "3rd",
+            "2000/08/01",
+            "2000/08/01",
+            "2000/08/01",
+            "1992/10/01",
+            "1991/05/22"
+          ],
+          [
+            "4th",
+            "1998/02/08",
+            "1997/08/22",
+            "1997/11/01",
+            "1995/03/08",
+            "1986/05/01"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment-Based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2004/07/08",
+            "2003/07/01",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "2005/05/01",
+            "2002/06/01",
+            "2001/10/15",
+            "2002/11/15",
+            "2005/05/01"
+          ],
+          [
+            "Other Workers",
+            "2003/03/15",
+            "2003/03/15",
+            "2003/03/15",
+            "2003/03/15",
+            "2003/03/15"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "18,300",
+            "Except: Egypt 10,800 Ethiopia 10,000 Nigeria 8,400"
+          ],
+          [
+            "ASIA",
+            "8,300",
+            ""
+          ],
+          [
+            "EUROPE",
+            "15,400",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "4",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "480",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "790",
+            ""
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "23,300",
+            "Except: Egypt 13,300 Ethiopia 11,650 Nigeria 9,500"
+          ],
+          [
+            "ASIA",
+            "11,000",
+            "Except: Bangladesh 9,550"
+          ],
+          [
+            "EUROPE",
+            "17,100",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "5",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "575",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "800",
+            ""
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期",
+        "职业移民签证申请递件日期",
+        ""
+      ]
+    },
+    "02": {
+      "year": 2009,
+      "month": 2,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2009/visa-bulletin-for-february-2009.html",
+      "fetchedAt": "2026-06-15T03:05:02.649Z",
+      "familyTables": [
+        [
+          [
+            "Family- Sponsored",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2002/07/08",
+            "2002/07/08",
+            "2002/07/08",
+            "1992/10/08",
+            "1993/07/15"
+          ],
+          [
+            "2A",
+            "2004/06/01",
+            "2004/06/01",
+            "2004/06/01",
+            "2001/09/22",
+            "2004/06/01"
+          ],
+          [
+            "2B",
+            "2000/05/08",
+            "2000/05/08",
+            "2000/05/08",
+            "1992/05/01",
+            "1997/10/15"
+          ],
+          [
+            "3rd",
+            "2000/08/01",
+            "2000/08/01",
+            "2000/08/01",
+            "1992/10/08",
+            "1991/06/01"
+          ],
+          [
+            "4th",
+            "1998/02/15",
+            "1997/09/22",
+            "1998/01/15",
+            "1995/03/22",
+            "1986/05/01"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2005/01/01",
+            "2004/01/01",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "2005/05/01",
+            "2002/10/01",
+            "2001/10/15",
+            "2003/04/01",
+            "2005/05/01"
+          ],
+          [
+            "Other Workers",
+            "2003/03/15",
+            "2002/10/01",
+            "2001/10/15",
+            "2001/10/15",
+            "2003/03/15"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "23,300",
+            "Except: Egypt 13,300 Ethiopia 11,650 Nigeria 9,500"
+          ],
+          [
+            "ASIA",
+            "11,000",
+            "Except: Bangladesh 9,550"
+          ],
+          [
+            "EUROPE",
+            "17,100",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "5",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "575",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "800",
+            ""
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "26,800",
+            "Except: Egypt 16,000 Ethiopia 13,800 Nigeria 9,900"
+          ],
+          [
+            "ASIA",
+            "13,200",
+            "Except: Bangladesh 10,850"
+          ],
+          [
+            "EUROPE",
+            "19,800",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "6",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "675",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "850",
+            ""
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期",
+        "职业移民签证申请递件日期",
+        ""
+      ]
+    },
+    "03": {
+      "year": 2009,
+      "month": 3,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2009/visa-bulletin-march-2009.html",
+      "fetchedAt": "2026-06-15T03:16:11.804Z",
+      "familyTables": [
+        [
+          [
+            "Family- Sponsored",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2002/07/22",
+            "2002/07/22",
+            "2002/07/22",
+            "1992/10/08",
+            "1993/07/15"
+          ],
+          [
+            "2A",
+            "2004/07/01",
+            "2004/07/01",
+            "2004/07/01",
+            "2001/10/15",
+            "2004/07/01"
+          ],
+          [
+            "2B",
+            "2000/06/22",
+            "2000/06/22",
+            "2000/06/22",
+            "1992/05/01",
+            "1997/12/01"
+          ],
+          [
+            "3rd",
+            "2000/08/08",
+            "2000/08/08",
+            "2000/08/08",
+            "1992/10/15",
+            "1991/06/08"
+          ],
+          [
+            "4th",
+            "1998/03/01",
+            "1997/11/15",
+            "1998/03/01",
+            "1995/04/08",
+            "1986/05/15"
+          ]
+        ],
+        [
+          [
+            "Mexico",
+            "961,744"
+          ],
+          [
+            "Philippines",
+            "401,849"
+          ],
+          [
+            "Dominican Republic",
+            "136,070"
+          ],
+          [
+            "China",
+            "132,325"
+          ],
+          [
+            "India",
+            "115,394"
+          ],
+          [
+            "Vietnam",
+            "109,910"
+          ],
+          [
+            "Bangladesh",
+            "50,275"
+          ],
+          [
+            "Haiti",
+            "50,029"
+          ],
+          [
+            "El Salvador",
+            "48,776"
+          ],
+          [
+            "Pakistan",
+            "45,905"
+          ],
+          [
+            "All Others",
+            "671,075"
+          ],
+          [
+            "Worldwide Total:",
+            "2,723,352"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment-Based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2005/02/15",
+            "2004/02/15",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "2005/05/01",
+            "2002/10/22",
+            "2001/10/15",
+            "2003/08/15",
+            "2005/05/01"
+          ],
+          [
+            "Other Workers",
+            "2003/03/15",
+            "2002/10/22",
+            "2001/10/15",
+            "2003/03/15",
+            "2003/03/15"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "26,800",
+            "Except: Egypt 16,000 Ethiopia 13,800 Nigeria 9,900"
+          ],
+          [
+            "ASIA",
+            "13,200",
+            "Except: Bangladesh 10,850"
+          ],
+          [
+            "EUROPE",
+            "19,800",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "6",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "675",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "850",
+            ""
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "26,900",
+            "Except: Egypt 17,400 Ethiopia 15,700 Nigeria 9,900"
+          ],
+          [
+            "ASIA",
+            "17,400",
+            "Except: Bangladesh 11,000"
+          ],
+          [
+            "EUROPE",
+            "20,800",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "7",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "715",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "900",
+            ""
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期",
+        "亲属移民签证申请递件日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期",
+        "职业移民签证申请递件日期",
+        ""
+      ]
+    },
+    "04": {
+      "year": 2009,
+      "month": 4,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2009/visa-bulletin-for-april-2009.html",
+      "fetchedAt": "2026-06-15T03:04:47.452Z",
+      "familyTables": [
+        [
+          [
+            "Family- Sponsored",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2002/08/15",
+            "2002/08/15",
+            "2002/08/15",
+            "1992/10/08",
+            "1993/08/01"
+          ],
+          [
+            "2A",
+            "2004/08/15",
+            "2004/08/15",
+            "2004/08/15",
+            "2002/01/01",
+            "2004/08/15"
+          ],
+          [
+            "2B",
+            "2000/09/01",
+            "2000/09/01",
+            "2000/09/01",
+            "1992/05/01",
+            "1998/01/15"
+          ],
+          [
+            "3rd",
+            "2000/08/22",
+            "2000/08/22",
+            "2000/08/22",
+            "1992/10/22",
+            "1991/06/15"
+          ],
+          [
+            "4th",
+            "1998/04/15",
+            "1998/01/08",
+            "1998/04/15",
+            "1995/04/22",
+            "1986/06/22"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2005/02/15",
+            "2004/02/15",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "2003/03/01",
+            "2003/03/01",
+            "2001/11/01",
+            "2003/03/01",
+            "2003/03/01"
+          ],
+          [
+            "Other Workers",
+            "2001/03/01",
+            "2001/03/01",
+            "2001/03/01",
+            "2001/03/01",
+            "2001/03/01"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th Pilot Progams",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "26,900",
+            "Except: Egypt 17,400 Ethiopia 15,700 Nigeria 9,900"
+          ],
+          [
+            "ASIA",
+            "17,400",
+            "Except: Bangladesh 11,000"
+          ],
+          [
+            "EUROPE",
+            "20,800",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "7",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "715",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "900",
+            ""
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "32,400",
+            "Except: Egypt 19,150 Ethiopia 17,750 Nigeria 11,550"
+          ],
+          [
+            "ASIA",
+            "22,800",
+            ""
+          ],
+          [
+            "EUROPE",
+            "24,900",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "10",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "825",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "1,000",
+            ""
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期",
+        "职业移民签证申请递件日期",
+        ""
+      ]
+    },
+    "05": {
+      "year": 2009,
+      "month": 5,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2009/visa-bulletin-for-may-2009.html",
+      "fetchedAt": "2026-06-15T03:04:41.646Z",
+      "familyTables": [
+        [
+          [
+            "Family- Sponsored",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2002/09/22",
+            "2002/09/22",
+            "2002/09/22",
+            "1992/10/08",
+            "1993/08/01"
+          ],
+          [
+            "2A",
+            "2004/10/08",
+            "2004/10/08",
+            "2004/10/08",
+            "2002/04/01",
+            "2004/10/08"
+          ],
+          [
+            "2B",
+            "2000/11/15",
+            "2000/11/15",
+            "2000/11/15",
+            "1992/05/01",
+            "1998/02/01"
+          ],
+          [
+            "3rd",
+            "2000/09/08",
+            "2000/09/08",
+            "2000/09/08",
+            "1992/10/22",
+            "1991/06/22"
+          ],
+          [
+            "4th",
+            "1998/06/08",
+            "1998/03/22",
+            "1998/06/08",
+            "1995/05/01",
+            "1986/07/08"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2005/02/15",
+            "2004/02/15",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "Other Workers",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "32,400",
+            "Except: Egypt 19,150 Ethiopia 17,750 Nigeria 11,550"
+          ],
+          [
+            "ASIA",
+            "22,800",
+            ""
+          ],
+          [
+            "EUROPE",
+            "24,900",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "10",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "825",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "1,000",
+            ""
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "39,600",
+            "Except: Egypt 20,650 Ethiopia 19,500 Nigeria 12,750"
+          ],
+          [
+            "ASIA",
+            "30,350",
+            ""
+          ],
+          [
+            "EUROPE",
+            "28,000",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "15",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "930",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "1,100",
+            ""
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期",
+        "职业移民签证申请递件日期",
+        ""
+      ]
+    },
+    "06": {
+      "year": 2009,
+      "month": 6,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2009/visa-bulletin-for-june-2009.html",
+      "fetchedAt": "2026-06-15T03:04:38.736Z",
+      "familyTables": [
+        [
+          [
+            "Family- Sponsored",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPP-INES"
+          ],
+          [
+            "1st",
+            "2002/11/08",
+            "2002/11/08",
+            "2002/11/08",
+            "1992/10/08",
+            "1993/09/01"
+          ],
+          [
+            "2A",
+            "2004/12/15",
+            "2004/12/15",
+            "2004/12/15",
+            "2002/05/15",
+            "2004/12/15"
+          ],
+          [
+            "2B",
+            "2001/02/01",
+            "2001/02/01",
+            "2001/02/01",
+            "1992/05/01",
+            "1998/04/01"
+          ],
+          [
+            "3rd",
+            "2000/10/08",
+            "2000/10/08",
+            "2000/10/08",
+            "1992/10/22",
+            "1991/07/01"
+          ],
+          [
+            "4th",
+            "1998/08/15",
+            "1998/08/15",
+            "1998/08/15",
+            "1995/05/22",
+            "1986/08/01"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2005/02/15",
+            "2000/01/01",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "Other Workers",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "39,600",
+            "Except: Egypt 20,650 Ethiopia 19,500 Nigeria 12,750"
+          ],
+          [
+            "ASIA",
+            "30,350",
+            ""
+          ],
+          [
+            "EUROPE",
+            "28,000",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "15",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "930",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "1,100",
+            ""
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "48,700",
+            "Except: Egypt 21,600 Ethiopia 21,100 Nigeria 14,400"
+          ],
+          [
+            "ASIA",
+            "CURRENT",
+            ""
+          ],
+          [
+            "EUROPE",
+            "CURRENT",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "CURRENT",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "CURRENT",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "CURRENT",
+            ""
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期",
+        "职业移民签证申请递件日期",
+        ""
+      ]
+    },
+    "07": {
+      "year": 2009,
+      "month": 7,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2009/visa-bulletin-for-july-2009.html",
+      "fetchedAt": "2026-06-15T03:04:32.426Z",
+      "familyTables": [
+        [
+          [
+            "Family- Sponsored",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2002/11/15",
+            "2002/11/15",
+            "2002/11/15",
+            "1991/01/01",
+            "1993/09/01"
+          ],
+          [
+            "2A",
+            "2004/12/22",
+            "2004/12/22",
+            "2004/12/22",
+            "2002/06/22",
+            "2004/12/22"
+          ],
+          [
+            "2B",
+            "2001/04/15",
+            "2001/04/15",
+            "2001/04/15",
+            "1992/05/01",
+            "1998/04/01"
+          ],
+          [
+            "3rd",
+            "2000/10/22",
+            "2000/10/22",
+            "2000/10/22",
+            "1991/07/01",
+            "1991/07/01"
+          ],
+          [
+            "4th",
+            "1998/10/22",
+            "1998/10/22",
+            "1998/10/22",
+            "1995/06/15",
+            "1986/08/08"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2000/01/01",
+            "2000/01/01",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "Other Workers",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "48,700",
+            "Except: Egypt 21,600 Ethiopia 21,100 Nigeria 14,400"
+          ],
+          [
+            "ASIA",
+            "CURRENT",
+            ""
+          ],
+          [
+            "EUROPE",
+            "CURRENT",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "CURRENT",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "CURRENT",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "CURRENT",
+            ""
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "64,300",
+            "Except: Egypt 22,750 Ethiopia 22,800 Nigeria 15,650"
+          ],
+          [
+            "ASIA",
+            "CURRENT",
+            ""
+          ],
+          [
+            "EUROPE",
+            "CURRENT",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "CURRENT",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "CURRENT",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "CURRENT",
+            ""
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期",
+        "职业移民签证申请递件日期",
+        ""
+      ]
+    },
+    "08": {
+      "year": 2009,
+      "month": 8,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2009/visa-bulletin-for-august-2009.html",
+      "fetchedAt": "2026-06-15T03:04:30.957Z",
+      "familyTables": [
+        [
+          [
+            "Family- Sponsored",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2003/01/08",
+            "2003/01/08",
+            "2003/01/08",
+            "1991/01/01",
+            "1993/09/15"
+          ],
+          [
+            "2A",
+            "2005/01/15",
+            "2005/01/15",
+            "2005/01/15",
+            "2002/09/22",
+            "2005/01/15"
+          ],
+          [
+            "2B",
+            "2001/05/01",
+            "2001/05/01",
+            "2001/05/01",
+            "1992/05/08",
+            "1998/05/01"
+          ],
+          [
+            "3rd",
+            "2000/11/01",
+            "2000/11/01",
+            "2000/11/01",
+            "1991/07/01",
+            "1991/08/08"
+          ],
+          [
+            "4th",
+            "1998/12/22",
+            "1998/12/22",
+            "1998/12/22",
+            "1995/08/01",
+            "1986/09/08"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2003/10/01",
+            "2003/10/01",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "Other Workers",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "64,300",
+            "Except: Egypt: 22,750 Ethiopia: 22,800 Nigeria: 15,650"
+          ],
+          [
+            "ASIA",
+            "Current",
+            ""
+          ],
+          [
+            "EUROPE",
+            "Current",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "Current",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "Current",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "Current",
+            ""
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "CURRENT",
+            "Except: Egypt: 22,900 Ethiopia: 23,900"
+          ],
+          [
+            "ASIA",
+            "CURRENT",
+            ""
+          ],
+          [
+            "EUROPE",
+            "CURRENT",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "CURRENT",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "CURRENT",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "CURRENT",
+            ""
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期",
+        "职业移民签证申请递件日期",
+        ""
+      ]
+    },
+    "09": {
+      "year": 2009,
+      "month": 9,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2009/visa-bulletin-september-2009.html",
+      "fetchedAt": "2026-06-15T03:15:21.651Z",
+      "familyTables": [
+        [
+          [
+            "Family- Sponsored",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2003/05/15",
+            "2003/05/15",
+            "2003/05/15",
+            "1991/01/01",
+            "1993/09/22"
+          ],
+          [
+            "2A",
+            "2005/04/15",
+            "2005/04/15",
+            "2005/04/15",
+            "2002/12/22",
+            "2005/04/15"
+          ],
+          [
+            "2B",
+            "2001/07/01",
+            "2001/07/01",
+            "2001/07/01",
+            "1992/05/15",
+            "1998/05/01"
+          ],
+          [
+            "3rd",
+            "2000/12/15",
+            "2000/12/15",
+            "2000/12/15",
+            "1991/07/01",
+            "1991/09/22"
+          ],
+          [
+            "4th",
+            "1999/02/22",
+            "1999/02/22",
+            "1999/02/22",
+            "1995/09/22",
+            "1986/10/22"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2005/01/08",
+            "2005/01/08",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "Other Worker",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "4th",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "Certain Religious Workers",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "CURRENT",
+            "Except: Egypt 22,900 Ethiopia: 23,900"
+          ],
+          [
+            "ASIA",
+            "CURRENT",
+            ""
+          ],
+          [
+            "EUROPE",
+            "CURRENT",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "CURRENT",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "CURRENT",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "CURRENT",
+            ""
+          ]
+        ],
+        [
+          [
+            "Region",
+            "All DV Chargeability Areas Except Those Listed Separately",
+            ""
+          ],
+          [
+            "AFRICA",
+            "8,300",
+            "Except: Egypt: 3,100 Ethiopia: 3,900 Nigeria: 5,500"
+          ],
+          [
+            "ASIA",
+            "7,000",
+            ""
+          ],
+          [
+            "EUROPE",
+            "9,100",
+            ""
+          ],
+          [
+            "NORTH AMERICA (BAHAMAS)",
+            "2",
+            ""
+          ],
+          [
+            "OCEANIA",
+            "375",
+            ""
+          ],
+          [
+            "SOUTH AMERICA, and the CARIBBEAN",
+            "450",
+            ""
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期",
+        "职业移民签证申请递件日期",
+        ""
+      ]
+    }
+  }
+}

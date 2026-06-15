@@ -1,0 +1,1758 @@
+{
+  "year": 2005,
+  "updatedAt": "2026-06-15T06:29:57.312Z",
+  "bulletins": {
+    "10": {
+      "year": 2005,
+      "month": 10,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2006/visa-bulletin-for-october-2005.html",
+      "fetchedAt": "2026-06-15T03:07:36.735Z",
+      "familyTables": [
+        [
+          [
+            "Family",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA-mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2001/04/22",
+            "2001/04/22",
+            "2001/04/22",
+            "1993/01/01",
+            "1991/05/22"
+          ],
+          [
+            "2A*",
+            "2001/11/01",
+            "2001/11/01",
+            "2001/11/01",
+            "1998/10/01",
+            "2001/11/01"
+          ],
+          [
+            "2B",
+            "1996/04/22",
+            "1996/04/22",
+            "1996/04/22",
+            "1991/12/01",
+            "1996/04/22"
+          ],
+          [
+            "3rd",
+            "1998/04/15",
+            "1998/04/15",
+            "1998/04/15",
+            "1993/01/01",
+            "1990/11/08"
+          ],
+          [
+            "4th",
+            "1994/02/01",
+            "1994/02/01",
+            "1993/08/01",
+            "1991/02/01",
+            "1983/05/01"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CH",
+            "IN",
+            "ME",
+            "PH"
+          ],
+          [
+            "1st",
+            "C",
+            "2000/01/01",
+            "2002/08/01",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2000/05/01",
+            "1999/11/01",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "2001/03/01",
+            "2000/05/01",
+            "1998/01/01",
+            "2001/01/01",
+            "2001/03/01"
+          ],
+          [
+            "Schedule A Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Other Workers",
+            "2000/10/01",
+            "2000/10/01",
+            "2000/10/01",
+            "2000/10/01",
+            "2000/10/01"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期"
+      ]
+    },
+    "11": {
+      "year": 2005,
+      "month": 11,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2006/visa-bulletin-for-november-2005.html",
+      "fetchedAt": "2026-06-15T03:07:34.493Z",
+      "familyTables": [
+        [
+          [
+            "",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA-mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "Family",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1st",
+            "2001/04/22",
+            "2001/04/22",
+            "2001/04/22",
+            "1994/01/01",
+            "1991/07/22"
+          ],
+          [
+            "2A*",
+            "2001/12/01",
+            "2001/12/01",
+            "2001/12/01",
+            "1998/11/01",
+            "2001/12/01"
+          ],
+          [
+            "2B",
+            "1996/05/22",
+            "1996/05/22",
+            "1996/05/22",
+            "1992/01/15",
+            "1996/05/22"
+          ],
+          [
+            "3rd",
+            "1998/05/08",
+            "1998/05/08",
+            "1998/05/08",
+            "1994/04/08",
+            "1991/01/08"
+          ],
+          [
+            "4th",
+            "1994/03/15",
+            "1994/03/15",
+            "1993/10/01",
+            "1991/08/01",
+            "1983/07/01"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "",
+            "All Chargeability Areas Except Those Listed",
+            "CH",
+            "IN",
+            "ME",
+            "PH"
+          ],
+          [
+            "Employment- Based",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1st",
+            "C",
+            "2000/01/01",
+            "2002/08/01",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2000/05/01",
+            "1999/11/01",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "2001/03/01",
+            "2000/05/01",
+            "1998/01/01",
+            "2001/01/01",
+            "2001/03/01"
+          ],
+          [
+            "Schedule A Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Other Workers",
+            "2000/10/01",
+            "2000/10/01",
+            "2000/10/01",
+            "2000/10/01",
+            "2000/10/01"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期"
+      ]
+    },
+    "12": {
+      "year": 2005,
+      "month": 12,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2006/visa-bulletin-for-december-2005.html",
+      "fetchedAt": "2026-06-15T03:07:32.872Z",
+      "familyTables": [
+        [
+          [
+            "Family",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA-mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2001/04/22",
+            "2001/04/22",
+            "2001/04/22",
+            "1994/06/01",
+            "1991/08/22"
+          ],
+          [
+            "2A*",
+            "2002/01/01",
+            "2002/01/01",
+            "2002/01/01",
+            "1998/12/15",
+            "2002/01/01"
+          ],
+          [
+            "2B",
+            "1996/06/08",
+            "1996/06/08",
+            "1996/06/08",
+            "1992/02/01",
+            "1996/06/08"
+          ],
+          [
+            "3rd",
+            "1998/06/08",
+            "1998/06/08",
+            "1998/06/08",
+            "1994/09/01",
+            "1991/02/08"
+          ],
+          [
+            "4th",
+            "1994/05/01",
+            "1994/05/01",
+            "1993/11/15",
+            "1992/04/01",
+            "1983/09/01"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CH",
+            "IN",
+            "ME",
+            "PH"
+          ],
+          [
+            "1st",
+            "C",
+            "2001/07/01",
+            "2003/02/01",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "2001/02/01",
+            "2000/07/01",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "2001/03/15",
+            "2001/01/01",
+            "1999/01/01",
+            "2001/02/01",
+            "2001/03/15"
+          ],
+          [
+            "Schedule A Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Other Workers",
+            "2000/10/01",
+            "2000/10/01",
+            "2000/10/01",
+            "2000/10/01",
+            "2000/10/01"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期"
+      ]
+    },
+    "01": {
+      "year": 2005,
+      "month": 1,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2005/visa-bulletin-for-january-2005.html",
+      "fetchedAt": "2026-06-15T03:07:58.985Z",
+      "familyTables": [
+        [
+          [
+            "Family",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA-mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2000/12/22",
+            "2000/12/22",
+            "2000/12/22",
+            "1994/10/15",
+            "1990/10/15"
+          ],
+          [
+            "2A*",
+            "2000/08/15",
+            "2000/08/15",
+            "2000/08/15",
+            "1997/10/15",
+            "2000/08/15"
+          ],
+          [
+            "2B",
+            "1995/08/01",
+            "1995/08/01",
+            "1995/08/01",
+            "1992/02/15",
+            "1995/08/01"
+          ],
+          [
+            "3rd",
+            "1997/12/22",
+            "1997/12/22",
+            "1997/12/22",
+            "1995/01/22",
+            "1990/06/01"
+          ],
+          [
+            "4th",
+            "1992/11/22",
+            "1992/11/22",
+            "1992/04/08",
+            "1992/11/22",
+            "1982/09/22"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CH",
+            "IN",
+            "ME",
+            "PH"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "C",
+            "2002/01/01",
+            "2002/01/01",
+            "C",
+            "2002/01/01"
+          ],
+          [
+            "Other Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期"
+      ]
+    },
+    "02": {
+      "year": 2005,
+      "month": 2,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2005/visa-bulletin-for-february-2005.html",
+      "fetchedAt": "2026-06-15T03:07:57.059Z",
+      "familyTables": [
+        [
+          [
+            "Family",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA-mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2001/01/22",
+            "2001/01/22",
+            "2001/01/22",
+            "1994/10/22",
+            "1990/10/15"
+          ],
+          [
+            "2A*",
+            "2000/10/01",
+            "2000/10/01",
+            "2000/10/01",
+            "1997/11/15",
+            "2000/10/01"
+          ],
+          [
+            "2B",
+            "1995/08/22",
+            "1995/08/22",
+            "1995/08/22",
+            "1992/02/22",
+            "1995/08/22"
+          ],
+          [
+            "3rd",
+            "1998/01/08",
+            "1998/01/08",
+            "1998/01/08",
+            "1995/03/22",
+            "1990/06/01"
+          ],
+          [
+            "4th",
+            "1993/01/08",
+            "1993/01/08",
+            "1992/05/15",
+            "1993/01/08",
+            "1982/09/22"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment-Based",
+            "All Chargeability Areas Except Those Listed",
+            "CH",
+            "IN",
+            "ME",
+            "PH"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "C",
+            "2002/01/01",
+            "2002/01/01",
+            "C",
+            "2002/01/01"
+          ],
+          [
+            "Other Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期"
+      ]
+    },
+    "03": {
+      "year": 2005,
+      "month": 3,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2005/visa-bulletin-for-march-2005.html",
+      "fetchedAt": "2026-06-15T03:07:54.407Z",
+      "familyTables": [
+        [
+          [
+            "Family",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA-mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2001/02/22",
+            "2001/02/22",
+            "2001/02/22",
+            "1994/10/22",
+            "1990/11/15"
+          ],
+          [
+            "2A*",
+            "2000/11/15",
+            "2000/11/15",
+            "2000/11/15",
+            "1997/12/15",
+            "2000/11/15"
+          ],
+          [
+            "2B",
+            "1995/09/15",
+            "1995/09/15",
+            "1995/09/15",
+            "1992/03/15",
+            "1995/09/15"
+          ],
+          [
+            "3rd",
+            "1998/01/15",
+            "1998/01/15",
+            "1998/01/15",
+            "1995/04/08",
+            "1990/07/01"
+          ],
+          [
+            "4th",
+            "1993/03/01",
+            "1993/03/01",
+            "1992/07/22",
+            "1993/03/01",
+            "1982/10/22"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment-Based",
+            "All Chargeability Areas Except Those Listed",
+            "CH",
+            "IN",
+            "ME",
+            "PH"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "C",
+            "2002/03/01",
+            "2002/03/01",
+            "C",
+            "2002/03/01"
+          ],
+          [
+            "Other Workers",
+            "2001/07/01",
+            "2001/07/01",
+            "2001/07/01",
+            "2001/07/01",
+            "2001/07/01"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期"
+      ]
+    },
+    "04": {
+      "year": 2005,
+      "month": 4,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2005/visa-bulletin-for-april-2005.html",
+      "fetchedAt": "2026-06-15T03:07:52.703Z",
+      "familyTables": [
+        [
+          [
+            "Family",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2001/03/15",
+            "2001/03/15",
+            "2001/03/15",
+            "1994/10/22",
+            "1990/12/15"
+          ],
+          [
+            "2A*",
+            "2001/01/08",
+            "2001/01/08",
+            "2001/01/08",
+            "1998/01/15",
+            "2001/01/08"
+          ],
+          [
+            "2B",
+            "1995/10/15",
+            "1995/10/15",
+            "1995/10/15",
+            "1992/03/15",
+            "1995/10/15"
+          ],
+          [
+            "3rd",
+            "1998/01/22",
+            "1998/01/22",
+            "1998/01/22",
+            "1995/04/08",
+            "1990/08/01"
+          ],
+          [
+            "4th",
+            "1993/05/15",
+            "1993/05/15",
+            "1992/09/08",
+            "1993/05/15",
+            "1982/11/22"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "C",
+            "2002/04/01",
+            "2002/04/01",
+            "C",
+            "2002/04/01"
+          ],
+          [
+            "Other Workers",
+            "2001/07/01",
+            "2001/07/01",
+            "2001/07/01",
+            "2001/07/01",
+            "2001/07/01"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期"
+      ]
+    },
+    "05": {
+      "year": 2005,
+      "month": 5,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2005/visa-bulletin-for-may-2005.html",
+      "fetchedAt": "2026-06-15T03:07:49.754Z",
+      "familyTables": [
+        [
+          [
+            "Family",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2001/04/01",
+            "2001/04/01",
+            "2001/04/01",
+            "1994/10/22",
+            "1991/01/15"
+          ],
+          [
+            "2A*",
+            "2001/03/01",
+            "2001/03/01",
+            "2001/03/01",
+            "1998/03/01",
+            "2001/03/01"
+          ],
+          [
+            "2B",
+            "1995/11/08",
+            "1995/11/08",
+            "1995/11/08",
+            "1992/03/15",
+            "1995/11/08"
+          ],
+          [
+            "3rd",
+            "1998/01/22",
+            "1998/01/22",
+            "1998/01/22",
+            "1995/04/22",
+            "1990/09/01"
+          ],
+          [
+            "4th",
+            "1993/07/01",
+            "1993/07/01",
+            "1992/10/22",
+            "1993/07/01",
+            "1982/12/22"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargability Area Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "C",
+            "2002/06/01",
+            "2002/06/01",
+            "C",
+            "2002/06/01"
+          ],
+          [
+            "Other Workers",
+            "2001/07/01",
+            "2001/07/01",
+            "2001/07/01",
+            "2001/07/01",
+            "2001/07/01"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期"
+      ]
+    },
+    "06": {
+      "year": 2005,
+      "month": 6,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2005/visa-bulletin-for-june-2005.html",
+      "fetchedAt": "2026-06-15T03:07:47.144Z",
+      "familyTables": [
+        [
+          [
+            "Family",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2001/04/08",
+            "2001/04/08",
+            "2001/04/08",
+            "1994/10/22",
+            "1991/01/15"
+          ],
+          [
+            "2A*",
+            "2001/04/22",
+            "2001/04/22",
+            "2001/04/22",
+            "1998/04/22",
+            "2001/04/22"
+          ],
+          [
+            "2B",
+            "1995/12/08",
+            "1995/12/08",
+            "1995/12/08",
+            "1992/03/15",
+            "1995/12/08"
+          ],
+          [
+            "3rd",
+            "1998/01/22",
+            "1998/01/22",
+            "1998/01/22",
+            "1995/04/22",
+            "1990/09/01"
+          ],
+          [
+            "4th",
+            "1993/08/01",
+            "1993/08/01",
+            "1992/12/15",
+            "1993/08/01",
+            "1982/12/22"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment-based",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "C",
+            "2002/06/01",
+            "2002/06/01",
+            "C",
+            "2002/06/01"
+          ],
+          [
+            "Schedule A Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Other Workers",
+            "1999/01/01",
+            "1999/01/01",
+            "1999/01/01",
+            "1999/01/01",
+            "1999/01/01"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas / Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期"
+      ]
+    },
+    "07": {
+      "year": 2005,
+      "month": 7,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2005/visa-bulletin-for-july-2005.html",
+      "fetchedAt": "2026-06-15T03:07:45.126Z",
+      "familyTables": [
+        [
+          [
+            "Family",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA-mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2001/04/08",
+            "2001/04/08",
+            "2001/04/08",
+            "1983/01/01",
+            "1991/02/08"
+          ],
+          [
+            "2A*",
+            "2001/05/22",
+            "2001/05/22",
+            "2001/05/22",
+            "1998/05/22",
+            "2001/05/22"
+          ],
+          [
+            "2B",
+            "1996/01/01",
+            "1996/01/01",
+            "1996/01/01",
+            "1991/01/01",
+            "1996/01/01"
+          ],
+          [
+            "3rd",
+            "1998/02/01",
+            "1998/02/01",
+            "1998/02/01",
+            "1992/01/01",
+            "1990/09/01"
+          ],
+          [
+            "4th",
+            "1993/09/08",
+            "1993/09/08",
+            "1993/01/15",
+            "1987/01/01",
+            "1983/01/01"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment-Based",
+            "All Chargeability Areas Except Those Listed",
+            "CH",
+            "IN",
+            "ME",
+            "PH"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "Schedule A Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Other Workers",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期"
+      ]
+    },
+    "08": {
+      "year": 2005,
+      "month": 8,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2005/visa-bulletin-for-august-2005.html",
+      "fetchedAt": "2026-06-15T03:07:40.984Z",
+      "familyTables": [
+        [
+          [
+            "Family",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2001/04/08",
+            "2001/04/08",
+            "2001/04/08",
+            "1983/01/01",
+            "1991/03/01"
+          ],
+          [
+            "2A*",
+            "2001/07/22",
+            "2001/07/22",
+            "2001/07/22",
+            "1998/07/01",
+            "2001/07/22"
+          ],
+          [
+            "2B",
+            "1996/01/22",
+            "1996/01/22",
+            "1996/01/22",
+            "1991/01/01",
+            "1996/01/22"
+          ],
+          [
+            "3rd",
+            "1998/02/01",
+            "1998/02/01",
+            "1998/02/01",
+            "1992/01/01",
+            "1990/09/08"
+          ],
+          [
+            "4th",
+            "1993/10/08",
+            "1993/10/08",
+            "1993/02/22",
+            "1987/01/01",
+            "1983/02/01"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- based",
+            "All Charge- ability Areas Except Those Listed",
+            "CHINA- mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "Schedule A Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Other Workers",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employ- ment Areas/ Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期"
+      ]
+    },
+    "09": {
+      "year": 2005,
+      "month": 9,
+      "sourceUrl": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2005/visa-bulletin-for-september-2005.html",
+      "fetchedAt": "2026-06-15T03:07:38.986Z",
+      "familyTables": [
+        [
+          [
+            "Family",
+            "All Chargeability Areas Except Those Listed",
+            "CHINA-mainland born",
+            "INDIA",
+            "MEXICO",
+            "PHILIPPINES"
+          ],
+          [
+            "1st",
+            "2001/04/15",
+            "2001/04/15",
+            "2001/04/15",
+            "1983/01/01",
+            "1991/03/22"
+          ],
+          [
+            "2A*",
+            "2001/09/22",
+            "2001/09/22",
+            "2001/09/22",
+            "1998/08/15",
+            "2001/09/22"
+          ],
+          [
+            "2B",
+            "1996/04/01",
+            "1996/04/01",
+            "1996/04/01",
+            "1991/01/01",
+            "1996/04/01"
+          ],
+          [
+            "3rd",
+            "1998/03/15",
+            "1998/03/15",
+            "1998/03/15",
+            "1992/01/01",
+            "1990/09/08"
+          ],
+          [
+            "4th",
+            "1993/12/15",
+            "1993/12/15",
+            "1993/06/01",
+            "1987/01/01",
+            "1983/03/01"
+          ]
+        ]
+      ],
+      "employmentTables": [
+        [
+          [
+            "Employment- Based",
+            "All Chargeability Areas Except Those Listed",
+            "CH",
+            "IN",
+            "ME",
+            "PH"
+          ],
+          [
+            "1st",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "2nd",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "3rd",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "Schedule A Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Other Workers",
+            "U",
+            "U",
+            "U",
+            "U",
+            "U"
+          ],
+          [
+            "4th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Certain Religious Workers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "5th",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "Targeted Employment Areas/Regional Centers",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      ],
+      "familyTableTitles": [
+        "亲属移民优先类别最终裁定日期"
+      ],
+      "employmentTableTitles": [
+        "职业移民优先类别最终裁定日期"
+      ]
+    }
+  }
+}

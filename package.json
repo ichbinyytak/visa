@@ -1,0 +1,21 @@
+{
+  "name": "visa-bulletin查询",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview",
+    "update-bulletin": "node scripts/update-bulletin.js",
+    "backfill-bulletins": "node scripts/backfill-bulletins.js",
+    "migrate-bulletins-to-yearly": "node scripts/migrate-bulletins-to-yearly.js",
+    "normalize-table-titles": "node scripts/normalize-table-titles.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
