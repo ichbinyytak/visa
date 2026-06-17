@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite'
 import visaBulletinHandler from './api/visa-bulletin.js'
+import visaBulletinMetaHandler from './api/visa-bulletin-meta.js'
 
 function createJsonResponse(res) {
   return {
@@ -22,12 +23,23 @@ export default defineConfig({
     {
       name: 'local-api',
       configureServer(server) {
-        server.middlewares.use('/api/visa-bulletin', async (req, res) => {
+        server.middlewares.use('/api', async (req, res, next) => {
           const requestUrl = new URL(req.url || '/', 'http://localhost')
+          const handler = requestUrl.pathname === '/visa-bulletin'
+            ? visaBulletinHandler
+            : requestUrl.pathname === '/visa-bulletin-meta'
+              ? visaBulletinMetaHandler
+              : null
+
+          if (!handler) {
+            next()
+            return
+          }
+
           req.query = Object.fromEntries(requestUrl.searchParams.entries())
 
           try {
-            await visaBulletinHandler(req, createJsonResponse(res))
+            await handler(req, createJsonResponse(res))
           } catch (error) {
             console.error(error)
             res.statusCode = 500

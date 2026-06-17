@@ -19,6 +19,7 @@ const MONTHS = [
 const API_BASE = '/api';
 
 let cachedData = {};
+let cachedMeta = null;
 
 const FAMILY_LABELS = {
   'Family- Sponsored': '亲属移民',
@@ -278,6 +279,37 @@ async function fetchVisaBulletin(year, month) {
   }
 }
 
+async function fetchVisaBulletinMeta() {
+  if (cachedMeta) {
+    return cachedMeta;
+  }
+
+  const response = await fetch(`${API_BASE}/visa-bulletin-meta`);
+  if (!response.ok) {
+    throw new Error(`HTTP error! status: ${response.status}`);
+  }
+
+  cachedMeta = await response.json();
+  return cachedMeta;
+}
+
+async function loadDataMeta() {
+  const dataRange = document.getElementById('dataRange');
+  if (!dataRange) {
+    return;
+  }
+
+  try {
+    const meta = await fetchVisaBulletinMeta();
+    if (meta.firstMonth && meta.lastMonth) {
+      dataRange.textContent = `${meta.firstMonth} 至 ${meta.lastMonth}`;
+    }
+  } catch (error) {
+    console.error('Failed to fetch visa bulletin metadata:', error);
+    dataRange.textContent = '读取失败';
+  }
+}
+
 function renderData(data, previousData = null) {
   const content = document.getElementById('content');
   const category = document.getElementById('categorySelect').value;
@@ -406,5 +438,6 @@ async function loadData() {
 
 document.addEventListener('DOMContentLoaded', () => {
   initSelectors();
+  loadDataMeta();
   loadData();
 });

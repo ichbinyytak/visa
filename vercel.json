@@ -3,6 +3,9 @@
   "functions": {
     "api/visa-bulletin.js": {
       "includeFiles": "data/visa-bulletins/**"
+    },
+    "api/visa-bulletin-meta.js": {
+      "includeFiles": "data/visa-bulletins/**"
     }
   }
 }

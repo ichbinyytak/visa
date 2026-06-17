@@ -17,11 +17,7 @@
 
 https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html
 
-当前已收录范围：
-
-```text
-2001-12 至 2026-06
-```
+已收录范围会根据 `data/visa-bulletins/` 中的年度数据自动计算，并显示在页面顶部。
 
 数据文件位于：
 
