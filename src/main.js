@@ -230,7 +230,19 @@ function renderTableDescription(title) {
   return description ? `<p class="table-description">${escapeHtml(description)}</p>` : '';
 }
 
-function initSelectors() {
+function parseStoredMonthRange(value) {
+  const match = /^(\d{4})-(\d{2})$/.exec(value || '');
+  if (!match) {
+    return null;
+  }
+
+  return {
+    year: match[1],
+    month: String(Number(match[2]))
+  };
+}
+
+function initSelectors(defaultSelection = null) {
   const yearSelect = document.getElementById('yearSelect');
   const monthSelect = document.getElementById('monthSelect');
   
@@ -248,9 +260,15 @@ function initSelectors() {
     option.textContent = month.label;
     monthSelect.appendChild(option);
   });
-  
-  yearSelect.value = CURRENT_YEAR;
-  monthSelect.value = currentMonth.toString();
+
+  const fallbackSelection = {
+    year: String(CURRENT_YEAR),
+    month: currentMonth.toString()
+  };
+  const selected = defaultSelection || fallbackSelection;
+
+  yearSelect.value = selected.year;
+  monthSelect.value = selected.month;
   
   yearSelect.addEventListener('change', loadData);
   monthSelect.addEventListener('change', loadData);
@@ -296,7 +314,7 @@ async function fetchVisaBulletinMeta() {
 async function loadDataMeta() {
   const dataRange = document.getElementById('dataRange');
   if (!dataRange) {
-    return;
+    return null;
   }
 
   try {
@@ -304,9 +322,11 @@ async function loadDataMeta() {
     if (meta.firstMonth && meta.lastMonth) {
       dataRange.textContent = `${meta.firstMonth} 至 ${meta.lastMonth}`;
     }
+    return meta;
   } catch (error) {
     console.error('Failed to fetch visa bulletin metadata:', error);
     dataRange.textContent = '读取失败';
+    return null;
   }
 }
 
@@ -437,7 +457,10 @@ async function loadData() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  initSelectors();
-  loadDataMeta();
-  loadData();
+  loadDataMeta()
+    .catch(() => null)
+    .then(meta => {
+      initSelectors(parseStoredMonthRange(meta?.lastMonth));
+      loadData();
+    });
 });
